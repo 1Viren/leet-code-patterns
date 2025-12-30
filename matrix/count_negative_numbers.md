@@ -13,7 +13,5 @@ This strategy ensures that at each step we eliminate either a row or a column fr
 Complexity
 
 Time Complexity: O(m + n)
-Each row and column is visited at most once.
 
 Space Complexity: O(1)
-Only a constant amount of extra space is used.
